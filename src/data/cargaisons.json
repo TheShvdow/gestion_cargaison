@@ -1,0 +1,58 @@
+[
+    {
+        "id_cargo": "GPM-1000",
+        "category": "Maritime",
+        "dateDepart": "2024-06-01",
+        "dateArrive": "2024-06-02",
+        "poids": 180,
+        "volume": null,
+        "origine": "France",
+        "destination": "Sénégal",
+        "etat": "Full"
+    },
+    {
+        "id_cargo": "GPM-1001",
+        "category": "Routiére",
+        "dateDepart": "2024-06-03",
+        "dateArrive": "2024-06-04",
+        "poids": null,
+        "volume": 10,
+        "origine": "USA",
+        "destination": "Sénégal",
+        "etat": "Full"
+    },
+    {
+        "id_cargo": "GPM-1002",
+        "category": "Routiére",
+        "dateDepart": "2024-06-03",
+        "dateArrive": "2024-06-04",
+        "poids": null,
+        "volume": 10,
+        "origine": "USA",
+        "destination": "Sénégal",
+        "etat": "Full"
+    },
+    {
+        "id_cargo": "GPM-1003",
+        "category": "Routiére",
+        "dateDepart": "2024-06-09",
+        "dateArrive": "2024-06-23",
+        "poids": null,
+        "volume": 10,
+        "origine": "Allemagne",
+        "destination": "Sénégal",
+        "etat": "Full"
+    },
+    {
+        "id_cargo": "GPM-1004",
+        "category": "Aérien",
+        "dateDepart": "2024-06-12",
+        "dateArrive": "2024-06-20",
+        "poids": null,
+        "volume": 10,
+        "origine": "Japon",
+        "destination": "Sénégal",
+        "etat": "Full"
+    }
+
+] 
