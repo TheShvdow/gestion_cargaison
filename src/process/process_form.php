@@ -1,12 +1,11 @@
 <?php
 
-echo "1";
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $data = json_decode(file_get_contents('php://input'), true);
     file_put_contents('./data/cargaisons.json', $data);
 }
     
-  /*   header('Content-Type: application/json');
+   header('Content-Type: application/json');
     
     // Lire les données JSON de la requête
     $input = file_get_contents('php://input');
@@ -39,7 +38,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         echo json_encode(['error' => 'Erreur lors de la sauvegarde des données']);
     }
 
- */
+ 
 
 
 
